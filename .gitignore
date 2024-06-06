@@ -1,0 +1,17 @@
+node_modules
+dist
+commandList.txt
+update.md
+splatnet
+nodemon.json
+.vscode
+./cache
+CoopHistoryDetailQuery.json
+error
+guilds.json
+assets
+.env
+api.test.js
+*.txt
+.vs
+src/Commands/test.ts
